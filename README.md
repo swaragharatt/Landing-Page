@@ -60,17 +60,6 @@ Open `index.html` in any modern browser. The landing page will display:
 
 ![Screenshot 2025-06-19 010509](https://github.com/user-attachments/assets/cf0b982b-023e-4591-9026-5def9cdcd936)
 
-
----
-
-## Potential Improvements
-
-* Add product search and filter options
-* Integrate shopping cart functionality
-* Backend integration for product data
-* Enhance accessibility and SEO features
-* Convert to a full-stack e-commerce site
-
 ---
 
 ## Author
